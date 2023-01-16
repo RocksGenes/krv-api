@@ -13,13 +13,8 @@ persist-key
 persist-tun
 client
 verb 3
-#auth-user-pass
+auth-user-pass
 setenv CLIENT_CERT 0
-<auth-user-pass>
-vpn
-vpn
-</auth-user-pass>
-
 
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -122,13 +117,8 @@ persist-key
 persist-tun
 client
 verb 3
-#auth-user-pass
+auth-user-pass
 setenv CLIENT_CERT 0
-<auth-user-pass>
-vpn
-vpn
-</auth-user-pass>
-
 
 <ca>
 -----BEGIN CERTIFICATE-----
