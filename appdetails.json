@@ -18,7 +18,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"South Korea +","country":"SouthKorea","image":"southkorea","ip":"211.221.182.96","active":"true","signal":"a"},
-    {"id":0, "file":1, "city":"South Korea ++","country":"SouthKorea","image":"southkorea","ip":"211.221.182.96","active":"true","signal":"b"}
+    {"id":1, "file":1, "city":"South Korea ++","country":"SouthKorea","image":"southkorea","ip":"211.221.182.96","active":"true","signal":"b"}
     
   ]
 }
