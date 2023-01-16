@@ -10,9 +10,8 @@
     {"id":0, "app":""}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Philippines +","country":"Philippines","image":"philippines","ip":"192.168.1.2","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Philippines ++","country":"Philippines","image":"philippines","ip":"192.168.1.2","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Philippines ++","country":"Philippines","image":"philippines","ip":"192.168.1.2","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Germany TCP","country":"Germany","image":"germany","ip":"51.68.180.4","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Germany UDP","country":"Germany","image":"germany","ip":"51.68.180.4","active":"true","signal":"a"}
     
   ]
 }
