@@ -13,7 +13,8 @@
     {"id":3, "app":"com.tor.client"},
     {"id":4, "app":"com.insta.client"},
     {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":6, "app":"com.get.client"},
+    {"id":7, "app":"com.network.paymathofficial"}
   ],
   "free":[
     {"id":0, "file":0, "city":"Essen 1","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
