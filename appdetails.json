@@ -3,8 +3,8 @@
   "update":[{
     "version":"1.0.0.2",
     "title":"New KoroVPN Update!",
-    "description":"",
-    "size":""
+    "description":"New UI Design and improvement some servers and reduce lag while using this app",
+    "size":"Powered by : KoroSenpai"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
