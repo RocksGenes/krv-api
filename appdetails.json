@@ -2,9 +2,9 @@
   "ads":"false",
   "update":[{
     "version":"1.0.0.2",
-    "title":"Welcome to Koro VPN!",
-    "description":"This app is made by KoroSenpai",
-    "size":"https://phcorner.net/members/korosenpai.1358296/"
+    "title":"New KoroVPN Update!",
+    "description":"~ New Features\n~New UI Design",
+    "size":"2023 | SNFX Net Solution"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
